@@ -8,3 +8,8 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+export default defineConfig({
+  base: "/CognitiveKids/",
+  // ... otros settings
+});
+
